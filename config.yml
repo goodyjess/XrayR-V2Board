@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://vpanel.hybridwork.world" # 修改这里
-      ApiKey: "DDVKDDMKECVR9VVRV9FV9RFEE6" # 修改这里
+      ApiHost: "http://panel.v2rayvpn.site" # 修改这里
+      ApiKey: "Jejdjdj8cifk3ncicienf" # 修改这里
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
